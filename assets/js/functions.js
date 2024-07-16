@@ -331,6 +331,7 @@ if (mapCanvas.length) {
       scrollwheel: false,
       styles: [
           /* style your map at https://snazzymaps.com/editor and paste JSON here */
+          
       ]
     });
 
